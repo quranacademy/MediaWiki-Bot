@@ -1,0 +1,20 @@
+{
+    "name": "quranacademy/mediawiki-bot",
+    "description": "Bots platform for MediaWiki",
+    "type": "project",
+    "keywords": ["mediawiki", "bot"],
+    "license": "MIT",
+    "homepage": "https://github.com/quranacademy/MediaWiki-Bot",
+    "authors": [
+        {
+            "name": "Imangazaliev Muhammad",
+            "email": "imangazalievm@gmail.com"
+        }
+    ],
+    "require": {
+        "quranacademy/mediawiki-sdk": "1.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^4.8"
+    }
+}
